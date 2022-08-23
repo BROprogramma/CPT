@@ -1,8 +1,8 @@
 var respecConfig = {
-  specStatus: "GN-WV",
+  specStatus: "GN-VV",
   specType: "IM",
-  //canonicalURI: "WV",
-  publishDate: "2016-03-23",
+  //canonicalURI: "VV",
+  publishDate: "2022-07-15",
   editors: [
     {
       name: "TNO Geologische Dienst Nederland",
@@ -12,8 +12,9 @@ var respecConfig = {
   shortName: "CPT",
   pubDomain: "bro",
   github: "https://github.com/BROprogramma/CPT",
-  //previousPublishDate: "2017-01-01",
-  //previousStatus: "GN-CV",
+  previousPublishDate: "2017-06-27",
+  previousMaturity: "DEF",  
+  // "https://www.bro-productomgeving.nl/bpo/latest/bodem-en-grondonderzoek/geotechnisch-sondeeronderzoek-cpt/catalogus-cpt/gebruiksvriendelijke-versie-catalogus-cpt-v1-0"  
   //localBiblio: {
   //  "ISO19136": {
   //    "href": "https://www.iso.org/standard/32554.html",
