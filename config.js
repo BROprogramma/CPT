@@ -9,7 +9,7 @@ var respecConfig = {
       url: "https://www.tno.nl/nl/",
     },
   ],
-  shortName: "bro-cpt",
+  shortName: "CPT",
   pubDomain: "bro",
   github: "https://github.com/BROprogramma/CPT",
   //previousPublishDate: "2017-01-01",
