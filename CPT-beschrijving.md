@@ -1,4 +1,4 @@
-Geotechnisch sondeeronderzoek
+## Geotechnisch sondeeronderzoek
 
 Het *Geotechnisch sondeeronderzoek* is een van de registratieobjecten in het
 domein van *bodem- en grondonderzoek*. In dat domein gaat het om onderzoek dat
@@ -29,7 +29,7 @@ Voor de wet valt het geotechnisch sondeeronderzoek overigens onder het begrip
 verkenning. Een verkenning is in de wet gedefinieerd als een waarneming van de
 opbouw van de ondergrond op een punt, langs een lijn of in een vlak.
 
-Sonderen
+### Sonderen
 
 Geotechnisch sondeeronderzoek is de formele naam die in de BRO gebruikt wordt en
 het begrip verwijst naar een onderzoekstechniek die gewoonlijk sonderen wordt
