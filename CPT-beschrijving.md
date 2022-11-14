@@ -1,4 +1,5 @@
-## Geotechnisch sondeeronderzoek
+Geotechnisch sondeeronderzoek
+-----------------------------
 
 Het *Geotechnisch sondeeronderzoek* is een van de registratieobjecten in het
 domein van *bodem- en grondonderzoek*. In dat domein gaat het om onderzoek dat
@@ -169,7 +170,7 @@ zonder belasting (nulmeting). De nulmetingen worden gebruikt om vast te stellen
 of en in hoeverre het apparaat tijdens het sonderen aan betrouwbaarheid heeft
 ingeboet.
 
-### 4Aanvullend onderzoek
+### Aanvullend onderzoek
 
 In sommige gevallen worden er in het veld aanvullend onderzoek gedaan. Het gaat
 om waarnemingen die vaak met het blote oog worden gedaan. Wanneer de ondergrond
