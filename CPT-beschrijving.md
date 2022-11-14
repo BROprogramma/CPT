@@ -1,4 +1,4 @@
-**Geotechnisch sondeeronderzoek**
+Geotechnisch sondeeronderzoek
 
 Het *Geotechnisch sondeeronderzoek* is een van de registratieobjecten in het
 domein van *bodem- en grondonderzoek*. In dat domein gaat het om onderzoek dat
@@ -29,7 +29,7 @@ Voor de wet valt het geotechnisch sondeeronderzoek overigens onder het begrip
 verkenning. Een verkenning is in de wet gedefinieerd als een waarneming van de
 opbouw van de ondergrond op een punt, langs een lijn of in een vlak.
 
-3.1 Sonderen
+Sonderen
 
 Geotechnisch sondeeronderzoek is de formele naam die in de BRO gebruikt wordt en
 het begrip verwijst naar een onderzoekstechniek die gewoonlijk sonderen wordt
@@ -49,7 +49,7 @@ hoofdzaak gebruikt voor het ontwerp van funderingen, maar de resultaten kunnen
 ook veel breder worden gebruikt omdat zij in meer algemene zin inzicht geven in
 de eigenschappen en de opbouw van de ondergrond.
 
-3.2 Registratieobject Geotechnisch sondeeronderzoek
+Registratieobject Geotechnisch sondeeronderzoek
 
 Een registratieobject is de belangrijkste eenheid van informatie in de
 basisregistratie ondergrond. Een registratieobject bestaat uit delen
@@ -110,7 +110,7 @@ gegevens expliciet vastgelegd. Wel wordt er bij de registratie in de BRO
 impliciet informatie over de opdracht vastgelegd omdat gespecificeerd wordt
 binnen welk kader de gegevens aan de registratie worden aangeleverd.
 
-### 4.3 Geotechnisch sondeeronderzoek
+### Geotechnisch sondeeronderzoek
 
 Geotechnisch sondeeronderzoek is het geheel van gegevens dat betrekking heeft op
 een specifiek sondeeronderzoek dat op een specifieke locatie in Nederland is
@@ -122,7 +122,7 @@ doen van metingen met een sondeerapparaat en de uiteindelijke rapportage van de
 resultaten aan de opdrachtgever. Gegevens over de plaats waar het onderzoek is
 uitgevoerd worden over verschillende entiteiten verdeeld.
 
-### 4.4 Registratiegeschiedenis
+### Registratiegeschiedenis
 
 De registratiegeschiedenis van een geotechnisch sondeeronderzoek geeft de
 essentie van de geschiedenis van het object in de registratie ondergrond, de
@@ -130,7 +130,7 @@ zgn. formele geschiedenis. De registratiegeschiedenis vertelt bijvoorbeeld
 wanneer een object is geregistreerd en of er na registratie correcties zijn
 doorgevoerd.
 
-### 4.5 Sondeeronderzoek
+### 4Sondeeronderzoek
 
 Het sondeonderzoek vormt de kern van het geotechnisch sondeeronderzoek. Het is
 de typering van het geheel van activiteiten dat binnen het sondeeronderzoek is
@@ -147,7 +147,7 @@ een ander type test, met een eigen resultaat. De meetresultaten worden altijd
 bewerkt. De activiteiten die uitgevoerd zijn om de metingen te bewerken voor de
 uiteindelijke rapportage worden apart vastgelegd (de bewerking).
 
-### 4.6 Resultaat
+### Resultaat
 
 Het resultaat geeft de waarden van de bepaalde parameters op bepaalde posities
 in het sondetraject (conuspenetratietest resultaat), dan wel het verloop van de
@@ -155,7 +155,7 @@ waarde van gemeten parameters op één bepaalde positie in de tijd (dissipatiete
 resultaat). Sommige parameters hebben betrekking op de positie van de meting,
 maar de meeste parameters geven eigenschappen van de ondergrond weer.
 
-### 4.7 Sondeersapparaat
+###  Sondeersapparaat
 
 Het sondeerapparaat is een typering van het apparaat dat bij het
 sondeeronderzoek is gebruikt. Het belangrijkste onderdeel van het apparaat wordt
@@ -169,7 +169,7 @@ zonder belasting (nulmeting). De nulmetingen worden gebruikt om vast te stellen
 of en in hoeverre het apparaat tijdens het sonderen aan betrouwbaarheid heeft
 ingeboet.
 
-### 4.8 Aanvullend onderzoek
+### 4Aanvullend onderzoek
 
 In sommige gevallen worden er in het veld aanvullend onderzoek gedaan. Het gaat
 om waarnemingen die vaak met het blote oog worden gedaan. Wanneer de ondergrond
