@@ -1,5 +1,5 @@
-Geotechnisch sondeeronderzoek
------------------------------
+Sondeeronderzoek
+----------------
 
 Het *Geotechnisch sondeeronderzoek* is een van de registratieobjecten in het
 domein van *bodem- en grondonderzoek*. In dat domein gaat het om onderzoek dat
@@ -110,70 +110,3 @@ vastgelegd. Van de opdracht tot het uitvoeren van sondeeronderzoek worden geen
 gegevens expliciet vastgelegd. Wel wordt er bij de registratie in de BRO
 impliciet informatie over de opdracht vastgelegd omdat gespecificeerd wordt
 binnen welk kader de gegevens aan de registratie worden aangeleverd.
-
-### Geotechnisch sondeeronderzoek
-
-Geotechnisch sondeeronderzoek is het geheel van gegevens dat betrekking heeft op
-een specifiek sondeeronderzoek dat op een specifieke locatie in Nederland is
-uitgevoerd en dat door of onder de verantwoordelijkheid van een bepaalde
-bronhouder is aangeleverd aan de registerbeheerder van de BRO en vervolgens
-onder zijn verantwoordelijkheid in de registratie ondergrond is opgenomen. De
-activiteiten van het sondeeronderzoek omvatten in ieder geval het op locatie
-doen van metingen met een sondeerapparaat en de uiteindelijke rapportage van de
-resultaten aan de opdrachtgever. Gegevens over de plaats waar het onderzoek is
-uitgevoerd worden over verschillende entiteiten verdeeld.
-
-### Registratiegeschiedenis
-
-De registratiegeschiedenis van een geotechnisch sondeeronderzoek geeft de
-essentie van de geschiedenis van het object in de registratie ondergrond, de
-zgn. formele geschiedenis. De registratiegeschiedenis vertelt bijvoorbeeld
-wanneer een object is geregistreerd en of er na registratie correcties zijn
-doorgevoerd.
-
-### 4Sondeeronderzoek
-
-Het sondeonderzoek vormt de kern van het geotechnisch sondeeronderzoek. Het is
-de typering van het geheel van activiteiten dat binnen het sondeeronderzoek is
-uitgevoerd om met het sondeerapparaat de waarde van bepaalde parameters te meten
-en die metingen voor de opdrachtgever tot een resultaat te bewerken. De
-nauwkeurigheid van de gemeten parameters wordt impliciet verantwoord doordat het
-geotechnisch sondeeronderzoek in zijn geheel aan een bepaalde norm voldoet.
-
-Het sondeonderzoek koppelt de resultaten die eruit voortkomen aan het door de
-sonde bemeten deel van de ondergrond (traject). Het sondeonderzoek bestaat
-altijd uit het uitvoeren van een conuspenetratietest. De conuspenetratietest kan
-één of meer keren onderbroken worden om een dissipatietest uit te voeren. Dat is
-een ander type test, met een eigen resultaat. De meetresultaten worden altijd
-bewerkt. De activiteiten die uitgevoerd zijn om de metingen te bewerken voor de
-uiteindelijke rapportage worden apart vastgelegd (de bewerking).
-
-### Resultaat
-
-Het resultaat geeft de waarden van de bepaalde parameters op bepaalde posities
-in het sondetraject (conuspenetratietest resultaat), dan wel het verloop van de
-waarde van gemeten parameters op één bepaalde positie in de tijd (dissipatietest
-resultaat). Sommige parameters hebben betrekking op de positie van de meting,
-maar de meeste parameters geven eigenschappen van de ondergrond weer.
-
-###  Sondeersapparaat
-
-Het sondeerapparaat is een typering van het apparaat dat bij het
-sondeeronderzoek is gebruikt. Het belangrijkste onderdeel van het apparaat wordt
-de sondeerconus genoemd en dat is het eigenlijke meetinstrument oftewel de
-sonde. De sondeerconus bestaat uit twee functionele onderdelen, de kleefmantel
-en de conuspunt. De conuspunt omvat niet alleen het kegelvormig uiteinde van de
-sondeerconus maar ook het cilindrisch deel daar direct boven. De kleefmantel zit
-daar weer boven. Voor elk van de gemeten parameters kan vóór en na het uitvoeren
-van het sondeonderzoek de waarde worden afgelezen die het apparaat aangeeft
-zonder belasting (nulmeting). De nulmetingen worden gebruikt om vast te stellen
-of en in hoeverre het apparaat tijdens het sonderen aan betrouwbaarheid heeft
-ingeboet.
-
-### Aanvullend onderzoek
-
-In sommige gevallen worden er in het veld aanvullend onderzoek gedaan. Het gaat
-om waarnemingen die vaak met het blote oog worden gedaan. Wanneer de ondergrond
-tot een bepaalde diepte wordt weggegraven voordat met het sondeonderzoek wordt
-begonnen, wordt er een beschrijving van de weggehaalde lagen gemaakt
-(verwijderde laag).
