@@ -49,7 +49,7 @@ de eigenschappen en de opbouw van de ondergrond.
 Belangrijkste entiteiten
 ------------------------
 
-### 2.1 Geotechnisch sondeeronderzoek
+### Geotechnisch sondeeronderzoek
 
 Deze entiteit draagt de naam van het registratieobject zelf en bevat de gegevens
 die het
