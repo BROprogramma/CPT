@@ -12,9 +12,8 @@ var respecConfig = {
   shortName: "CPT",
   pubDomain: "bro",
   github: "https://github.com/BROprogramma/CPT",
-  previousPublishDate: "2022-07-15",
-  previousStatus: "GN-VV",  
-  // "https://www.bro-productomgeving.nl/bpo/latest/bodem-en-grondonderzoek/geotechnisch-sondeeronderzoek-cpt/catalogus-cpt/gebruiksvriendelijke-versie-catalogus-cpt-v1-0"  
+  previousPublishDate: "2022-09-01",
+  previousStatus: "GN-DEF",  
   //localBiblio: {
   //  "ISO19136": {
   //    "href": "https://www.iso.org/standard/32554.html",
