@@ -2,7 +2,7 @@ var respecConfig = {
   specStatus: "GN-DEF",
   specType: "IM",
   //canonicalURI: "VV",
-  //publishDate: "2022-09-01",
+  publishDate: "2022-09-01",
   editors: [
     {
       name: "TNO Geologische Dienst Nederland",
