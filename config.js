@@ -1,8 +1,8 @@
 var respecConfig = {
-  specStatus: "GN-DEF",
+  specStatus: "GN-WV",
   specType: "IM",
   //canonicalURI: "VV",
-  publishDate: "2022-09-01",
+  //publishDate: "2022-09-01",
   editors: [
     {
       name: "TNO Geologische Dienst Nederland",
@@ -12,8 +12,8 @@ var respecConfig = {
   shortName: "CPT",
   pubDomain: "bro",
   github: "https://github.com/BROprogramma/CPT",
-  previousPublishDate: "2022-07-15",
-  previousStatus: "GN-VV",  
+  previousPublishDate: "2022-09-01",
+  previousStatus: "GN-DEF",  
   //localBiblio: {
   //  "ISO19136": {
   //    "href": "https://www.iso.org/standard/32554.html",
