@@ -74,6 +74,7 @@ is uitgevoerd om met het *sondeerapparaat* de waarde van *bepaalde parameters*
 te meten en die metingen voor de opdrachtgever tot een *resultaat te bewerken*.
 De nauwkeurigheid van de gemeten parameters wordt impliciet verantwoord doordat
 het geotechnisch sondeeronderzoek in zijn geheel aan een bepaalde norm voldoet.
+
 Het *sondeonderzoek* koppelt de resultaten die eruit voortkomen aan het door de
 sonde bemeten deel van de ondergrond (traject). Het sondeonderzoek bestaat
 altijd uit het uitvoeren van een *conuspenetratietest*. De *conuspenetratietest*
