@@ -1,8 +1,8 @@
 Geotechnisch sondeeronderzoek
 =============================
 
-Inleiding 
-----------
+Inleiding
+---------
 
 De catalogus voor het geotechnisch sondeeronderzoek beschrijft de gegevens die
 in de registratie ondergrond zijn opgenomen van sondeeronderzoek dat vanuit het
@@ -12,7 +12,7 @@ Sondeeronderzoek wordt sporadisch binnen andere vakgebieden uitgevoerd,
 bijvoorbeeld in de bodemkunde, en dat onderzoek valt buiten het bereik van de
 basisregistratie ondergrond.
 
-### Geotechnisch sondeeronderzoek 
+### Geotechnisch sondeeronderzoek
 
 Geotechnisch sondeeronderzoek wordt uitgevoerd in het kader van projecten in de
 grond-, weg- en waterbouw en in de woning- en utiliteitsbouw. Het heeft tot doel
@@ -30,7 +30,7 @@ activiteiten van sondeeronderzoek omvatten in ieder geval het op locatie doen
 van metingen met een sondeerapparaat en de uiteindelijke rapportage van de
 resultaten aan de opdrachtgever.
 
-### Sonderen 
+### Sonderen
 
 Sonderen is een manier van veldonderzoek die binnen het domein van de
 geotechniek ontwikkeld is. Bij dit type onderzoek wordt een sondeerconus met
@@ -52,17 +52,10 @@ Belangrijkste entiteiten
 ### Geotechnisch sondeeronderzoek
 
 Deze entiteit draagt de naam van het registratieobject zelf en bevat de gegevens
-die het
-
-sondeeronderzoek identificeren en allerlei administratieve gegevens die
-betrekking hebben op onder
-
-meer de herkomst van het onderzoek in de registratie. Zo geeft het informatie
-over het doel waarvoor
-
-het onderzoek is uitgevoerd (*kader inwinning*), en de grondslag voor de
-verplichting tot aanlevering
-
+die het sondeeronderzoek identificeren en allerlei administratieve gegevens die
+betrekking hebben op onder meer de herkomst van het onderzoek in de registratie.
+Zo geeft het informatie over het doel waarvoor het onderzoek is uitgevoerd
+(*kader inwinning*), en de grondslag voor de verplichting tot aanlevering
 (*kader aanlevering*).
 
 ### Registratiegeschiedenis
@@ -73,7 +66,7 @@ zgn. formele geschiedenis. De registratiegeschiedenis vertelt bijvoorbeeld
 wanneer een object is geregistreerd en of er na registratie correcties zijn
 doorgevoerd.
 
-### Sondeonderzoek 
+### Sondeonderzoek
 
 Het *sondeonderzoek* vormt de kern van het *geotechnisch sondeeronderzoek*. Het
 is de typering van het geheel van activiteiten dat binnen het sondeeronderzoek
@@ -89,7 +82,7 @@ Dat is een ander type test, met een eigen resultaat. De meetresultaten worden
 altijd bewerkt. De activiteiten die uitgevoerd zijn om de metingen te bewerken
 voor de uiteindelijke rapportage worden apart vastgelegd (*de bewerking*).
 
-### Resultaat 
+### Resultaat
 
 Het resultaat geeft de waarden van de bepaalde parameters op bepaalde posities
 in het sondeertraject (*conuspenetratietest resultaat*), dan wel het verloop van
@@ -98,7 +91,7 @@ de waarde van gemeten parameters op één bepaalde positie in de tijd
 van de meting, maar de meeste parameters geven eigenschappen van de ondergrond
 weer.
 
-### Sondeerapparaat 
+### Sondeerapparaat
 
 Het *sondeerapparaat* is een typering van het apparaat dat bij het
 sondeeronderzoek is gebruikt. Het belangrijkste onderdeel van het apparaat wordt
@@ -112,7 +105,7 @@ zonder belasting (*nulmeting*). De nulmetingen worden gebruikt om vast te
 stellen of en in hoeverre het apparaat tijdens het sonderen aan betrouwbaarheid
 heeft ingeboet.
 
-### Aanvullend onderzoek 
+### Aanvullend onderzoek
 
 In sommige gevallen worden er in het veld aanvullend onderzoek gedaan. Het gaat
 om waarnemingen die vaak met het blote oog worden gedaan. Wanneer de ondergrond
