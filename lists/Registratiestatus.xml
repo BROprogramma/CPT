@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domeintabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Registratiestatus>
+		<Waarde>voltooid</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Alle gegevens van het object zijn geregistreerd; er kunnen geen nieuwe gegevens worden geregistreerd.</Omschrijving>
+	</Registratiestatus>
+</domeintabel>

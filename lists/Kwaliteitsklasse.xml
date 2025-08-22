@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domeintabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Kwaliteitsklasse>
+		<Waarde>klasse1</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse 1 volgens de bij 'sondeernorm' opgegeven norm.</Omschrijving>
+	</Kwaliteitsklasse>
+	<Kwaliteitsklasse>
+		<Waarde>klasse2</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse 2 volgens de bij 'sondeernorm' opgegeven norm.</Omschrijving>
+	</Kwaliteitsklasse>
+	<Kwaliteitsklasse>
+		<Waarde>klasse3</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse 3 volgens de bij 'sondeernorm' opgegeven norm.</Omschrijving>
+	</Kwaliteitsklasse>
+	<Kwaliteitsklasse>
+		<Waarde>klasse4</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse 4 volgens de bij 'sondeernorm' opgegeven norm.</Omschrijving>
+	</Kwaliteitsklasse>
+	<Kwaliteitsklasse>
+		<Waarde>klasse5</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse 5 volgens de bij 'sondeernorm' opgegeven norm.</Omschrijving>
+	</Kwaliteitsklasse>
+	<Kwaliteitsklasse>
+		<Waarde>klasse6</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse 6 volgens de bij 'sondeernorm' opgegeven norm.</Omschrijving>
+	</Kwaliteitsklasse>
+	<Kwaliteitsklasse>
+		<Waarde>klasse7</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse 7 volgens de bij 'sondeernorm' opgegeven norm.</Omschrijving>
+	</Kwaliteitsklasse>
+	<Kwaliteitsklasse>
+		<Waarde>nvt</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klassen niet van toepassing (NEN 3680).</Omschrijving>
+	</Kwaliteitsklasse>
+	<Kwaliteitsklasse>
+		<Waarde>onbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse onbekend.</Omschrijving>
+	</Kwaliteitsklasse>
+</domeintabel>

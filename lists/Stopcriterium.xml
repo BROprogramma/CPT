@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domeintabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Stopcriterium>
+		<Waarde>bezwijkrisico</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Risico op bezwijken / knikken.</Omschrijving>
+	</Stopcriterium>
+	<Stopcriterium>
+		<Waarde>conusweerstand</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Maximale conusweerstand bereikt.</Omschrijving>
+	</Stopcriterium>
+	<Stopcriterium>
+		<Waarde>einddiepte</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Einddiepte bereikt.</Omschrijving>
+	</Stopcriterium>
+	<Stopcriterium>
+		<Waarde>hellingshoek</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Maximale hellingshoek bereikt.</Omschrijving>
+	</Stopcriterium>
+	<Stopcriterium>
+		<Waarde>obstakel</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Obstakel geraakt.</Omschrijving>
+	</Stopcriterium>
+	<Stopcriterium>
+		<Waarde>storing</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Er is een storing opgetreden.</Omschrijving>
+	</Stopcriterium>
+	<Stopcriterium>
+		<Waarde>waterspanning</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Maximale waterspanning bereikt.</Omschrijving>
+	</Stopcriterium>
+	<Stopcriterium>
+		<Waarde>wegdrukkracht</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Maximale wegdrukkracht bereikt.</Omschrijving>
+	</Stopcriterium>
+	<Stopcriterium>
+		<Waarde>wrijvingsweerstand</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Maximale wrijvingsweerstand bereikt..</Omschrijving>
+	</Stopcriterium>
+	<Stopcriterium>
+		<Waarde>onbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>De reden is onbekend.</Omschrijving>
+	</Stopcriterium>
+</domeintabel>

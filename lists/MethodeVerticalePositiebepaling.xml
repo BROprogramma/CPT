@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domeintabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<MethodeVerticalePositiebepaling>
+		<Waarde>AHN2</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Positie bepaald d.m.v. Actueel Hoogtebestand Nederland, versie 2 van 2007-2012.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>AHN3</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Positie bepaald m.b.v. Actueel Hoogtebestand Nederland, versie 3 van 2014-2019.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>RTKGPS0tot4cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Real Time Kinematic GPS, ook wel als DGPS aangeduid, afwijking kleiner dan 4 centimeter.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>RTKGPS4tot10cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Real Time Kinematic GPS, ook wel als DGPS aangeduid, afwijking tussen 4 en 10 centimeter.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>RTKGPS10tot20cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Real Time Kinematic GPS, ook wel als DGPS aangeduid, zonder fix, afwijking tussen 10 en 20 centimeter.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>RTKGPS20tot100cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Real Time Kinematic GPS, ook wel als DGPS aangeduid, zonder fix, afwijking tussen 20 en 100 centimeter.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>tachymetrie0tot10cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. tachymetrie, ook wel als landmeting of Total Station aangeduid, afwijking kleiner dan 10 centimeter.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>tachymetrie10tot50cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Tachymetrie, ook wel landmeting of Total Station, afwijking tussen 10 en 50 centimeter.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>waterpassing0tot2cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Waterpassing, afwijking kleiner dan 2 centimeter.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>waterpassing2tot4cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Waterpassing, afwijking tussen 2 en 4 centimeter.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>waterpassing4tot10cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Waterpassing, afwijking tussen 4 en 10 centimeter.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>AHN1</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Positie bepaald m.b.v. Actueel Hoogtebestand Nederland, versie 1 van 1996-2003.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>AHNOnbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Positie bepaald m.b.v. Actueel Hoogtebestand Nederland, versie onbekend.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>DGPS0tot10cm</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Real Time Kinematic GPS, ook wel als DGPS aangeduid, afwijking kleiner dan 10 centimeter.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>geen</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Er is geen positie bepaald.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>GPSOnbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Global Positioning System, afwijking onbekend.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>kaartGrootschalig</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Locatie bepaald aan de hand van niet-digitale kaart, afwijking onbekend. Een grootschalige kaart is een kaart met een schaalgrootte niet kleiner dan 1:10.000 (bijvoorbeeld 1:500, 1:5.000 of 1:10.000).</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>kaartKleinschalig</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Locatie bepaald aan de hand van niet-digitale kaart, afwijking onbekend. Een kleinschalige kaart is een kaart met een schaalgrootte kleiner dan 1:10.000 (bijvoorbeeld 1:25.000, 1:50.000 of 1:100.000).</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>kaartOnbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Positie bepaald aan de hand van niet-digitale kaart, afwijking onbekend.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>landmetingOnbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. landmeting, afwijking onbekend.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+	<MethodeVerticalePositiebepaling>
+		<Waarde>onbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Het is onbekend op welke manier de verticale positie bepaald is.</Omschrijving>
+	</MethodeVerticalePositiebepaling>
+</domeintabel>

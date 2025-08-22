@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domeintabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Sondeermethode>
+		<Waarde>elektrischContinu</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Elektrisch continue meting.</Omschrijving>
+	</Sondeermethode>
+	<Sondeermethode>
+		<Waarde>elektrischDiscontinu</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Elektrisch discontinue meting.</Omschrijving>
+	</Sondeermethode>
+	<Sondeermethode>
+		<Waarde>mechanischContinu</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Mechanisch continue meting.</Omschrijving>
+	</Sondeermethode>
+	<Sondeermethode>
+		<Waarde>mechanischDiscontinu</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Mechanisch discontinue meting.</Omschrijving>
+	</Sondeermethode>
+	<Sondeermethode>
+		<Waarde>elektrisch</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Elektrische meting, continuiteit van de uitvoering onbekend.</Omschrijving>
+	</Sondeermethode>
+	<Sondeermethode>
+		<Waarde>mechanisch</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Mechanische meting, continuiteit van de uitvoering onbekend.</Omschrijving>
+	</Sondeermethode>
+	<Sondeermethode>
+		<Waarde>onbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Methode onbekend.</Omschrijving>
+	</Sondeermethode>
+</domeintabel>
