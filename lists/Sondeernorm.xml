@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domeintabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Sondeernorm>
+		<Waarde>ISO19901d8v2014</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>ISO 19901-8:2014 Petroleum and natural gas industries — Specific requirements for offshore structures — Part 8: Marine soil investigations is een internationale norm overgenomen als Europese norm (EN-ISO 19901-8:2015) en als Nederlandse norm NEN-EN-ISO 19901-8:2015 Aardolie- en aardgasindustrie - Specifieke eisen voor buitengaatse constructies - Deel 8: Zeebodemonderzoeken. De procedure wordt gebruikt voor sondeeronderzoek op zee en dat is aan de zeezijde van de UNCLOS-basislijn.</Omschrijving>
+	</Sondeernorm>
+	<Sondeernorm>
+		<Waarde>ISO22476D1</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>NEN-EN-ISO 22476 deel 1.</Omschrijving>
+	</Sondeernorm>
+	<Sondeernorm>
+		<Waarde>ISO22476D12</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>NEN-EN-ISO 22476 deel 12.</Omschrijving>
+	</Sondeernorm>
+	<Sondeernorm>
+		<Waarde>NEN5140</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>NEN 5140.</Omschrijving>
+	</Sondeernorm>
+	<Sondeernorm>
+		<Waarde>NEN3680</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>NEN 3680.</Omschrijving>
+	</Sondeernorm>
+	<Sondeernorm>
+		<Waarde>onbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Sondeernorm onbekend.</Omschrijving>
+	</Sondeernorm>
+</domeintabel>

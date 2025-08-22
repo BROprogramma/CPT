@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domeintabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<MethodeLocatiebepaling>
+		<Waarde>DGPS50tot200cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Differential Global Positioning System, afwijking tussen 50 en 200 centimeter.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>GPS200tot1000cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Global Positioning System, afwijking tussen 200 en 1000 centimeter.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>RTKGPS0tot2cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Real Time Kinematic GPS, ook wel als DGPS aangeduid, afwijking kleiner dan 2 centimeter.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>RTKGPS2tot5cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Real Time Kinematic GPS, ook wel als DGPS aangeduid, afwijking tussen 2 en 5 centimeter.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>RTKGPS5tot10cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Real Time Kinematic GPS, ook wel als DGPS aangeduid, afwijking tussen 5 en 10 centimeter.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>RTKGPS10tot50cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Real Time Kinematic GPS, ook wel als DGPS aangeduid, zonder fix, afwijking tussen 10 en 50 centimeter.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>tachymetrie0tot10cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Tachymetrie, ook wel landmeting of Total Station, afwijking kleiner dan 10 centimeter.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>tachymetrie10tot50cm</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Tachymetrie, ook wel landmeting of Total Station, afwijking tussen 10 en 50 centimeter.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>DGPS0tot100cm</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Real Time Kinematic GPS, ook wel als DGPS aangeduid of d.m.v. Differential Global Positioning System, afwijking kleiner dan 100 centimeter.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>DGPS100tot500cm</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Global Positioning System of d.m.v. Differential Global Positioning System, afwijking tussen 100 en 500 centimeter.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>GBKNOnbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Locatie bepaald aan de hand van de grootschalige basiskaart van Nederland (tegenwoordig BGT), afwijking onbekend.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>GPSOnbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. Global Positioning System, afwijking onbekend.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>kaartGrootschalig</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Locatie bepaald aan de hand van niet-digitale kaart, afwijking onbekend. Een grootschalige kaart is een kaart met een schaalgrootte niet kleiner dan 1:10.000 (bijvoorbeeld 1:500, 1:5.000 of 1:10.000).</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>kaartKleinschalig</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Locatie bepaald aan de hand van niet-digitale kaart, afwijking onbekend. Een kleinschalige kaart is een kaart met een schaalgrootte kleiner dan 1:10.000 (bijvoorbeeld 1:25.000, 1:50.000 of 1:100.000).</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>landmetingOnbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Meting d.m.v. landmeting, afwijking onbekend.</Omschrijving>
+	</MethodeLocatiebepaling>
+	<MethodeLocatiebepaling>
+		<Waarde>onbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Het is onbekend op welke manier de locatie bepaald is.</Omschrijving>
+	</MethodeLocatiebepaling>
+</domeintabel>

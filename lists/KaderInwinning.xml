@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domeintabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<KaderInwinning>
+		<Waarde>bouwwerkConstructie</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Onderzoek met als doel eigenschappen van de ondergrond rondom bouwwerken en constructies te verkennen.</Omschrijving>
+	</KaderInwinning>
+	<KaderInwinning>
+		<Waarde>controleOnderzoek</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Onderzoek met als doel om veranderingen in de ondergrond t.g.v. werkzaamheden te verkennen. Betreffend onderzoek heeft veelal een lokaal karakter. Vaak is voorafgaand aan de werkzaamheden al in een ander kader informatie ingewonnen om de verandering te kunnen beoordelen.</Omschrijving>
+	</KaderInwinning>
+	<KaderInwinning>
+		<Waarde>infrastructuurLand</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Onderzoek met als doel eigenschappen van de ondergrond rondom wegen, spoorwegen, fiets- en voetpaden te verkennen.</Omschrijving>
+	</KaderInwinning>
+	<KaderInwinning>
+		<Waarde>infrastructuurWater</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Onderzoek met als doel eigenschappen van de ondergrond in waterwegen te verkennen.</Omschrijving>
+	</KaderInwinning>
+	<KaderInwinning>
+		<Waarde>milieuonderzoek</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Onderzoek met als doel eigenschappen van de ondergrond te verkennen met een milieu hygiënische (natuurlijke of niet natuurlijke) achtergrond.</Omschrijving>
+	</KaderInwinning>
+	<KaderInwinning>
+		<Waarde>overigOnderzoek</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Onderzoeken niet behorend tot bovengenoemde categorieën.</Omschrijving>
+	</KaderInwinning>
+	<KaderInwinning>
+		<Waarde>vergunning</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Onderzoek met als doel een vergunning te onderbouwen.</Omschrijving>
+	</KaderInwinning>
+	<KaderInwinning>
+		<Waarde>waterkering</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Onderzoek met als doel eigenschappen van de ondergrond rondom waterkeringen te verkennen.</Omschrijving>
+	</KaderInwinning>
+	<KaderInwinning>
+		<Waarde>onbekend</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Onbekend</Omschrijving>
+	</KaderInwinning>
+</domeintabel>

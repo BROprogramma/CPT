@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domeintabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<KaderAanlevering>
+		<Waarde>publiekeTaak</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>De gegevens zijn aangeleverd in het kader van de publieke taakuitvoering.</Omschrijving>
+	</KaderAanlevering>
+	<KaderAanlevering>
+		<Waarde>MBW</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>De gegevens zijn aangeleverd in het kader van de Mijnbouwwet.</Omschrijving>
+	</KaderAanlevering>
+	<KaderAanlevering>
+		<Waarde>WW</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>De gegevens zijn aangeleverd in het kader van de Waterwet.</Omschrijving>
+	</KaderAanlevering>
+	<KaderAanlevering>
+		<Waarde>archiefoverdracht</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>De gegevens zijn aangeleverd in het kader van archiefoverdracht.</Omschrijving>
+	</KaderAanlevering>
+</domeintabel>
