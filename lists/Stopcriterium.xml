@@ -52,7 +52,7 @@
 		<Waarde>wrijvingsweerstand</Waarde>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Maximale wrijvingsweerstand bereikt..</Omschrijving>
+		<Omschrijving>Maximale wrijvingsweerstand bereikt.</Omschrijving>
 	</Stopcriterium>
 	<Stopcriterium>
 		<Waarde>onbekend</Waarde>
@@ -61,3 +61,4 @@
 		<Omschrijving>De reden is onbekend.</Omschrijving>
 	</Stopcriterium>
 </domeintabel>
+
