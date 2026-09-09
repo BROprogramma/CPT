@@ -10,13 +10,19 @@
 		<Waarde>ISO22476D1</Waarde>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>NEN-EN-ISO 22476-1 (publicatiejaar 2015, 2012 of 2023) Geotechnisch onderzoek en beproeving - Veldproeven - Deel 1: Elektrische sondering met en zonder waterspanningsmeting.</Omschrijving>
+		<Omschrijving>NEN-EN-ISO 22476-1 (publicatiejaar 2005 of 2012) Geotechnisch onderzoek en beproeving - Veldproeven - Deel 1: Elektrische sondering met en zonder waterspanningsmeting.</Omschrijving>
 	</Sondeernorm>
 	<Sondeernorm>
 		<Waarde>ISO22476D12</Waarde>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
 		<Omschrijving>NEN-EN-ISO 22476-12 (publicatiejaar 2006 of 2009) Geotechnisch onderzoek en beproeving - Veldproeven - Deel 12: Mechanische sondering (CPT).</Omschrijving>
+	</Sondeernorm>
+	<Sondeernorm>
+		<Waarde>NEN_EN_ISO22476d1v2023</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>NEN-EN-ISO 22476-1:2023 Geotechnisch onderzoek en beproeving - Veldproeven - Deel 1: Elektrische sondering met en zonder waterspanningsmeting.</Omschrijving>
 	</Sondeernorm>
 	<Sondeernorm>
 		<Waarde>NEN5140</Waarde>
