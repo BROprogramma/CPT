@@ -25,6 +25,12 @@
 		<Omschrijving>NEN-EN-ISO 22476-1:2023 Geotechnisch onderzoek en beproeving - Veldproeven - Deel 1: Elektrische sondering met en zonder waterspanningsmeting.</Omschrijving>
 	</Sondeernorm>
 	<Sondeernorm>
+		<Waarde>NEN_EN_ISO22476d1v2023_NEN8995v2026</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Combinatie van de volgende normen.<br/><br/><br/>NEN-EN-ISO 22476-1:2023 Geotechnisch onderzoek en beproeving - Veldproeven - Deel 1: Elektrische sondering met en zonder waterspanningsmeting.<br/><br/><br/>NEN 8995:2026 Geotechnisch onderzoek en beproeving - Veldtesten - Deel 1: Elektrische sondering en elektrische sondering met waterspanningsmeting - Nederlandse aanvulling op NEN-EN- ISO 22476-1.</Omschrijving>
+	</Sondeernorm>
+	<Sondeernorm>
 		<Waarde>NEN5140</Waarde>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
