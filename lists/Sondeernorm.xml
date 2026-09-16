@@ -19,6 +19,12 @@
 		<Omschrijving>NEN-EN-ISO 22476-12 (publicatiejaar 2006 of 2009) Geotechnisch onderzoek en beproeving - Veldproeven - Deel 12: Mechanische sondering (CPT).</Omschrijving>
 	</Sondeernorm>
 	<Sondeernorm>
+		<Waarde>NEN_EN_ISO19901d8v2023</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>NEN-EN-ISO 19901-8:2023 Aardolie- en aardgasindustrie - Specifieke eisen voor buitengaatse constructies - Deel 8: Zeebodemonderzoeken</Omschrijving>
+	</Sondeernorm>
+	<Sondeernorm>
 		<Waarde>NEN_EN_ISO22476d1v2023</Waarde>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
