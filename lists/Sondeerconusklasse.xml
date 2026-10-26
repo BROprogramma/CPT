@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<domeintabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Sondeerconusklasse>
+		<Waarde>0</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse 0 volgens de bij 'sondeernorm' opgegeven norm.</Omschrijving>
+	</Sondeerconusklasse>
+	<Sondeerconusklasse>
+		<Waarde>1</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse 1 volgens de bij 'sondeernorm' opgegeven norm.</Omschrijving>
+	</Sondeerconusklasse>
+	<Sondeerconusklasse>
+		<Waarde>1plus</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse 1+ volgens de bij 'sondeernorm' opgegeven norm.</Omschrijving>
+	</Sondeerconusklasse>
+	<Sondeerconusklasse>
+		<Waarde>2</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse 2 volgens de bij 'sondeernorm' opgegeven norm.</Omschrijving>
+	</Sondeerconusklasse>
+	<Sondeerconusklasse>
+		<Waarde>3</Waarde>
+		<IMBRO> </IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>Klasse 3 volgens de bij 'sondeernorm' opgegeven norm.</Omschrijving>
+	</Sondeerconusklasse>
+</domeintabel>
