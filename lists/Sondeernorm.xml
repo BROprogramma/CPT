@@ -43,6 +43,12 @@
 		<Omschrijving>NEN 5140 Geotechniek - Bepaling van de conusweerstand en de plaatselijke wrijvingsweerstand van grond - Elektrische sondeermethode.</Omschrijving>
 	</Sondeernorm>
 	<Sondeernorm>
+		<Waarde>NEN8995v2026</Waarde>
+		<IMBRO>v</IMBRO>
+		<IMBROA>v</IMBROA>
+		<Omschrijving>NEN 8995:2026 Geotechnisch onderzoek en beproeving - Veldproeven - Elektrische sondering met en zonder waterspanning - Nederlandse aanvulling op NEN EN ISO 22476-1.</Omschrijving>
+	</Sondeernorm>
+	<Sondeernorm>
 		<Waarde>NEN3680</Waarde>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
