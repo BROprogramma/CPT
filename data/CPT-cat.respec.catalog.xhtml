@@ -2,7 +2,7 @@
    <body>
       <section id="cat" class="normative">
          <h2>Gegevensdefinitie</h2>
-         <!--Conceptualmodel-GeotechnischsondeeronderzoekCPTconceptueel-1.2-1-20260915-20261119-110709 imvertor Nightly-build.0-->
+         <!--Conceptualmodel-GeotechnischsondeeronderzoekCPTconceptueel-1.2-1-20260915-20261120-170623 imvertor Nightly-build.0-->
          <section>
             <h3>Het domeinmodel   </h3>
             <div class="imageinfo overview"><img id="img-EAID_E017D891_0A47_430b_8BF9_BB34456AD0D7" src="Images/EAID_E017D891_0A47_430b_8BF9_BB34456AD0D7.png" usemap="#imagemap-EAID_E017D891_0A47_430b_8BF9_BB34456AD0D7" alt="Diagram: Domeinmodel - overzicht"></img><map name="imagemap-EAID_E017D891_0A47_430b_8BF9_BB34456AD0D7"><area shape="rect" alt="Registratieobject" coords="663,14,951,188" href="#global_class_Model_Registratieobject"></area><area shape="rect" alt="Verwijderde laag" coords="51,781,323,938" href="#global_class_Model_Verwijderdelaag"></area><area shape="rect" alt="Registratiegeschiedenis" coords="38,14,393,295" href="#global_class_Model_Registratiegeschiedenis"></area><area shape="rect" alt="Gestandaardiseerde locatie" coords="1228,671,1666,811" href="#global_class_Model_Gestandaardiseerdelocatie"></area><area shape="rect" alt="Traject" coords="1283,849,1665,970" href="#global_class_Model_Traject"></area><area shape="rect" alt="Sondeonderzoek" coords="663,768,983,1037" href="#global_class_Model_Sondeonderzoek"></area><area shape="rect" alt="Sondeerapparaat" coords="14,985,396,1272" href="#global_class_Model_Sondeerapparaat"></area><area shape="rect" alt="Nulmeting" coords="14,1299,396,1707" href="#global_class_Model_Nulmeting"></area><area shape="rect" alt="Dissipatietest resultaat" coords="1310,1354,1665,1528" href="#global_class_Model_Dissipatietestresultaat"></area><area shape="rect" alt="Dissipatietest" coords="1310,1178,1665,1358" href="#global_class_Model_Dissipatietest"></area><area shape="rect" alt="Conuspenetratietest resultaat" coords="792,1299,1228,1846" href="#global_class_Model_Conuspenetratietestresultaat"></area><area shape="rect" alt="Conuspenetratietest" coords="792,1124,1228,1288" href="#global_class_Model_Conuspenetratietest"></area><area shape="rect" alt="Bewerking" coords="1283,999,1665,1138" href="#global_class_Model_Bewerking"></area><area shape="rect" alt="Bepaalde parameters" coords="437,1122,751,1669" href="#global_class_Model_Bepaaldeparameters"></area><area shape="rect" alt="Aanvullend onderzoek" coords="51,562,323,719" href="#global_class_Model_Aanvullendonderzoek"></area><area shape="rect" alt="Aangeleverde verticale positie" coords="1228,439,1666,650" href="#global_class_Model_Aangeleverdeverticalepositie"></area><area shape="rect" alt="Geotechnisch sondeeronderzoek" coords="600,248,1007,545" href="#global_class_Model_Geotechnischsondeeronderzoek"></area><area shape="rect" alt="Aangeleverde locatie" coords="1228,248,1659,423" href="#global_class_Model_Aangeleverdelocatie"></area></map><p><b>Domeinmodel</b><p></p>
@@ -2998,16 +2998,19 @@
                         <tr>
                            <th scope="row">Regels</th>
                            <td>
-                              <p>Het attribuut moet gelijk zijn aan de laagste waarde van het attribuut <i>diepte </i>van de entiteit <i>Conuspenetratietest resultaat </i>wanneer de waarde van het attribuut <i>sondeernorm </i>van de entiteit <i>Geotechnisch sondeeronderzoek</i> gelijk is aan <i>NEN_EN_ISO22476d1v2023_NEN8995v2026</i> en de waarde van het attribuut <i>diepte</i> van de entiteit <i>Bepaalde parameters</i> gelijk is aan <i>Ja</i>.</p>
+                              <p>De waarde van attribuut moet gelijk zijn aan de hoogste waarde van het attribuut <i>diepte </i>van de entiteit <i>Conuspenetratietest resultaat </i>wanneer de waarde van het attribuut <i>diepte</i> van de entiteit <i>Bepaalde parameters</i> gelijk is aan <i>ja</i>.<br clear="none"></br>
+                                 De waarde van attribuut moet gelijk zijn aan de hoogste waarde van het attribuut <i>sondeertrajectlengte </i>van de entiteit <i>Conuspenetratietest resultaat </i>wanneer de waarde van het attribuut <i>diepte</i> van de entiteit <i>Bepaalde parameters</i> gelijk is aan <i>nee</i>.</p>
                            </td>
                         </tr>
                         <tr>
                            <th scope="row">Toelichting</th>
                            <td>
-                              <p>Voor IMBRO/A-gegevens wordt de diepte gemakshalve gelijkgesteld aan de maximale sondeerlengte
-                                 in het geval de hellingshoek van de sondeerconus niet is gemeten. Het gegeven is opgenomen
-                                 om data-afnemers in staat te stellen de gebruikswaarde van het geotechnisch sondeeronderzoek
-                                 te beoordelen zonder het resultaat in detail te hoeven kennen.</p>
+                              <p>De twee regels zijn geïmplementeerd in versie 2.1 van de catalogus en worden vanaf
+                                 dat moment gecontroleerd. Voor IMBRO/A-gegevens wordt de diepte gemakshalve gelijkgesteld
+                                 aan de maximale sondeerlengte in het geval de hellingshoek van de sondeerconus niet
+                                 is gemeten. Het gegeven is opgenomen om data-afnemers in staat te stellen de gebruikswaarde
+                                 van het geotechnisch sondeeronderzoek te beoordelen zonder het resultaat in detail
+                                 te hoeven kennen.</p>
                            </td>
                         </tr>
                      </tbody>
@@ -3728,7 +3731,7 @@
                      </tbody>
                   </table>
                </section>
-               <section id="detail_d93603e8912">
+               <section id="detail_d93603e8919">
                   <h5>  nulmeting</h5>
                   <table style="width: 100%;">
                      <colgroup style="width: 30%;"></colgroup>
@@ -6169,7 +6172,7 @@
                      </tbody>
                   </table>
                </section>
-               <section id="detail_d93603e14448">
+               <section id="detail_d93603e14455">
                   <h5>  conuspenetratietest resultaat</h5>
                   <table style="width: 100%;">
                      <colgroup style="width: 30%;"></colgroup>
@@ -8190,7 +8193,7 @@
                      </tbody>
                   </table>
                </section>
-               <section id="detail_d93603e19130">
+               <section id="detail_d93603e19137">
                   <h5>  dissipatietest resultaat</h5>
                   <table style="width: 100%;">
                      <colgroup style="width: 30%;"></colgroup>
